@@ -1,8 +1,8 @@
-#Java Docs
+# Java Docs
 
-##Chcking Documentation Syntax
+## Chcking Documentation Syntax
 
-###Java Basics
+### Java Basics
 
 #### Main Method
 
